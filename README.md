@@ -9,6 +9,7 @@
 Photo by <a href="https://unsplash.com/@averey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Robina Weermeijer</a> on <a href="https://unsplash.com/s/photos/brain-stroke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 This project is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status.
+* **Streamlit app is hosted on personal server using Docker**
 * **Python libraries used:** Streamlit, Pandas, Scikit-learn, xgboost, altair
 * **Input:** Stroke Prediction Dataset
 * **Source:** https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
