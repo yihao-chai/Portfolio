@@ -1,5 +1,5 @@
 # Chai Yi Hao
-*Experienced data analyst in creating scripts to automate data cleaning, building dashboards with actionable insights and providing business intelligence to management. Self-starter in machine learning and AI | 2nd runner-up for Data Arcade Tournament 2020 (Whole-of-Government Data Analytics Competition)*
+*Experienced data analyst and aspiring data scientist | 2nd runner-up for Data Arcade Tournament 2020 (Whole-of-Government Data Analytics Competition)*
 
 # Education
 *B.Eng (Hons) in Chemical and Biomolecular Engineering, 2009-2013*
