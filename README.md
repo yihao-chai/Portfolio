@@ -11,7 +11,7 @@ Photo by <a href="https://unsplash.com/@averey?utm_source=unsplash&utm_medium=re
 This project is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status.
 The app is built using streamlit and hosted on personal server using Docker container.
 
-* **Python libraries used:** streamlit, pandas, scikit-learn, xgboost, altair
+* **Python libraries used:** streamlit, pandas, scipy, scikit-learn, xgboost, altair
 * **Input:** Stroke Prediction Dataset
 * **Source:** https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
-* **Output:** Data analysis of stroke patients, predictive model
+* **Output:** Data analysis of stroke patients, predictive model for stroke risk
